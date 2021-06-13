@@ -9,8 +9,10 @@ Front-end : HTML, CSS, Bootstrap and Javascript
 Back-end : PHP 
 Database : MySQL 
 
-Database contains two Tables- Users Table & Transaction Table 
-The User table have basic fields such as name, email & current balance. 
+Database contains two Tables- Users Table & Transaction Table  
+
+The User table have basic fields such as name, email & current balance.  
+
 The Transaction table records all transfers happened along with their time.  
 
 Flow of the Website:  
