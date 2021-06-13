@@ -5,8 +5,10 @@ A Dynamic Website is used to transfer money between users.
 
 Stack used -
 
-Front-end : HTML, CSS, Bootstrap and Javascript 
-Back-end : PHP 
+Front-end : HTML, CSS, Bootstrap and Javascript  
+
+Back-end : PHP  
+
 Database : MySQL 
 
 Database contains two Tables- Users Table & Transaction Table  
